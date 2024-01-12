@@ -1,0 +1,10 @@
+{
+    "licenser.projectName": "YANIX",
+    "files.associations": {
+        "uefi.h": "c",
+        "font8x8.h": "c",
+        "stddef.h": "c",
+        "bootparams.h": "c",
+        "string.h": "c"
+    }
+}
